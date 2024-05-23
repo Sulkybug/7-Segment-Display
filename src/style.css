@@ -12,6 +12,7 @@
 
 html {
   width: 100vw;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -232,7 +233,6 @@ h1 {
   justify-content: center;
   align-items: center;
   color: goldenrod;
-  margin-top: 40px;
 }
 
 @media only screen and (max-width: 720px) {
@@ -275,7 +275,6 @@ h1 {
 
   body {
     height: 70vh;
-    margin-bottom: 5px;
   }
 }
 
